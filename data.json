@@ -1,0 +1,12 @@
+{
+  "heading": "Program 3",
+  "name": "aman",
+  "age": 20,
+  "email": "unknownneo9@gmail.com",
+  "isAdmin": false,
+  "hobbies": [
+    "reading",
+    "traveling",
+    "coding"
+  ]
+}
